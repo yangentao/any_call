@@ -1,6 +1,6 @@
 name: any_call
 description: AnyCall, invoke with variant arguments.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/yangentao/any_call
 homepage: https://github.com/yangentao/any_call
 
